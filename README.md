@@ -1,3 +1,2 @@
 # shiro-springboot
-a shiro demo 
-thymeleaf jpa mysql
+a shiro demo with thymeleaf jpa mysql
